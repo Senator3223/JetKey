@@ -28,7 +28,7 @@ SOFTWARE.
 Install the dependencies specified in the requirements.txt e.g. pip install -r requirements.txt
 Then put `jetkey.py` in your project directory, and call it like show in the following example.
 This example shows how to select the next available display projcetion mode:
-```
+```python
 import jetkey
 
 host: str = "192.168.1.42"
